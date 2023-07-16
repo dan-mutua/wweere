@@ -32,18 +32,16 @@ const About = () => {
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  Your safety is our utmost concern. We go above and beyond to
+                  ensure that all our vehicles meet the highest safety
+                  standards. Our fleet of cars is regularly inspected and
+                  maintained to ensure optimal performance and reliability. We
+                  prioritize the safety features of our vehicles, including
+                  airbags, anti-lock braking systems (ABS), stability control,
+                  and more.
                 </p>
 
-                <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
-                </p>
+              
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
                   <span className="fs-4">
@@ -52,7 +50,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>+25479999999</h4>
                   </div>
                 </div>
               </div>

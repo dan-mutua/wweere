@@ -1,23 +1,23 @@
 // import all images from assets/images directory
-import img01 from "../all-images/cars-img/nissan-offer.png";
-import img02 from "../all-images/cars-img/offer-toyota.png";
-import img03 from "../all-images/cars-img/bmw-offer.png";
-import img04 from "../all-images/cars-img/nissan-offer.png";
-import img05 from "../all-images/cars-img/offer-toyota.png";
-import img06 from "../all-images/cars-img/mercedes-offer.png";
-import img07 from "../all-images/cars-img/toyota-offer-2.png";
-import img08 from "../all-images/cars-img/mercedes-offer.png";
+import img01 from "../all-images/cars-img/Jaguar_F-pace-removebg-preview.png";
+import img02 from "../all-images/cars-img/Audi_A5-removebg-preview.png";
+import img03 from "../all-images/cars-img/Jeep_Wrangler2-removebg-preview.png";
+import img04 from "../all-images/cars-img/Toyota_C-hr-removebg-preview.png";
+import img05 from "../all-images/cars-img/cody-lannom-vhUTz7z1xrA-unsplash-removebg-preview.png";
+import img06 from "../all-images/cars-img/lc300-removebg-preview.png";
+import img07 from "../all-images/cars-img/bmw-removebg-preview.png";
+import img08 from "../all-images/cars-img/mini-removebg-preview.png";
 
 const carData = [
   {
     id: 1,
-    brand: "Toyota",
+    brand: "jaguar ",
     rating: 112,
-    carName: "Toyota camry",
+    carName: "jaguar f pace",
     imgUrl: img01,
-    model: "Model 3",
+    model: "F pace",
     price: 50,
-    speed: "20kmpl",
+    speed: "120kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -27,13 +27,13 @@ const carData = [
 
   {
     id: 2,
-    brand: "Toyota",
+    brand: "Audi",
     rating: 102,
-    carName: "Toyota Camry",
+    carName: "Audi A5 Sportback",
     imgUrl: img02,
-    model: "Model-2022",
+    model: "Sportback",
     price: 50,
-    speed: "20kmpl",
+    speed: "120kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -43,13 +43,13 @@ const carData = [
 
   {
     id: 3,
-    brand: "BMW",
+    brand: "Jeep",
     rating: 132,
-    carName: "BMW X3",
+    carName: "Jeep Wrangler",
     imgUrl: img03,
-    model: "Model-2022",
+    model: "Wrangler",
     price: 65,
-    speed: "20kmpl",
+    speed: "120kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -59,13 +59,13 @@ const carData = [
 
   {
     id: 4,
-    brand: "Nissan",
+    brand: "Toyota",
     rating: 102,
-    carName: "Nissan Teana",
+    carName: "Toyota C-hr",
     imgUrl: img04,
     model: "Model-2022",
     price: 70,
-    speed: "20kmpl",
+    speed: "90kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -75,9 +75,9 @@ const carData = [
 
   {
     id: 5,
-    brand: "Toyota",
+    brand: "Jeep",
     rating: 94,
-    carName: "Toyota Camry",
+    carName: "Jeep Wrangler",
     imgUrl: img05,
     model: "Model-2022",
     price: 45,
@@ -93,11 +93,11 @@ const carData = [
     id: 6,
     brand: "Mercedes",
     rating: 119,
-    carName: "Mercedes Benz c200",
+    carName: "Mercedes Benz GLC 300 ",
     imgUrl: img06,
-    model: "Model-2022",
+    model: "GLC 300 ",
     price: 85,
-    speed: "20kmpl",
+    speed: "220kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -107,13 +107,13 @@ const carData = [
 
   {
     id: 7,
-    brand: "Audi",
+    brand: "BMW",
     rating: 82,
-    carName: "Audi Fiesta",
+    carName: "BMW M3",
     imgUrl: img07,
-    model: "Model 3",
+    model: "M-3 Competition",
     price: 50,
-    speed: "20kmpl",
+    speed: "120kmpl",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
@@ -123,11 +123,11 @@ const carData = [
 
   {
     id: 8,
-    brand: "Colorado",
+    brand: "Mini",
     rating: 52,
-    carName: "Rolls Royce Colorado",
+    carName: "mini",
     imgUrl: img08,
-    model: "Model 3",
+    model: "mini",
     price: 50,
     speed: "20kmpl",
     gps: "GPS Navigation",
